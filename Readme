@@ -1,0 +1,13 @@
+## Requirements
+
+### Hardware
+- Raspberry Pi (or another device capable of running Node-RED)
+- Temperature sensor (e.g., DHT11 or DS18B20)
+- Actuators (e.g., fan, LEDs) to respond to sensor data
+- Optional: Other IoT sensors like humidity, pressure, etc.
+
+### Software
+- Node.js (for running Node-RED)
+- Node-RED installed (see installation instructions below)
+- Python or any AI service API (for AI integration)
+- MQTT Broker (for communication between devices, optional)
