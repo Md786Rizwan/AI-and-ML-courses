@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analyst as Md</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .section {
+            padding: 20px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .section h2 {
+            color: #4CAF50;
+        }
+        .contact-info a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Data Analyst as Md</h1>
+    </header>
+    <div class="container">
+        <section class="section" id="about">
+            <h2>About Me</h2>
+            <p>Hi, I'm Md Rizwan, a passionate data analyst with expertise in data analysis, visualization, and machine learning. With a strong background in statistics and computer science, I strive to turn data into actionable insights.</p>
+        </section>
+        <section class="section" id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Data Analysis</li>
+                <li>Data Visualization</li>
+                <li>Machine Learning</li>
+                <li>Python</li>
+                <li>R</li>
+                <li>SQL</li>
+                <li>TensorFlow</li>
+                <li>Deep Learning</li>
+            </ul>
+        </section>
+        <section class="section" id="projects">
+            <h2>Projects</h2>
+            <h3>Project Title 1</h3>
+            <p>Description of Project 1. This project involved...</p>
+            <h3>Project Title 2</h3>
+            <p>Description of Project 2. This project involved...</p>
+            <!-- Add more projects as needed -->
+        </section>
+        <section class="section" id="contact">
+            <h2>Contact</h2>
+            <p>If you'd like to get in touch, feel free to reach out via email or follow me on social media:</p>
+            <p class="contact-info">
+                Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+                LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a><br>
+                GitHub: <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a>
+            </p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Md Rizwan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
